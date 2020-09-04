@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express()
-const port = 6584
+const port = process.env.PORT || 3000;
 
 const packageListString = fs.readFileSync(path.join(__dirname, 'package-list.json'), 'utf-8');
 
