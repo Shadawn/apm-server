@@ -1,0 +1,14 @@
+{
+  "name": "a1-1c-packagemanager",
+  "version": "0.1.0",
+  "description": "Package Manager for 1C: Enterprise. Part of A1 Framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arseny.gerashchenko@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
