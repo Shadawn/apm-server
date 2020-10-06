@@ -1,14 +1,14 @@
 [
     {
         "name": "А1Э",
-        "version": "1.6.5 - 2020-10-01-2",
+        "version": "1.6.5 - 2020-10-05",
         "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
         "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
         "dataChange": false
     },
     {
         "name": "А1БК",
-        "version": "2020-09-29",
+        "version": "2020-10-02",
         "description": "А1: Библиотека Компонентов фрэймворка А1 для 1С: Предприятие.",
         "downloadPath": "https://github.com/Shadawn/A1-ComponentLibrary/raw/master/extension.cfe",
         "dataChange": false
