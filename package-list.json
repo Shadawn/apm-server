@@ -8,7 +8,7 @@
     },
     {
         "name": "А1БК",
-        "version": "2020-11-05",
+        "version": "2020-11-06",
         "description": "А1: Библиотека Компонентов фрэймворка А1 для 1С: Предприятие.",
         "downloadPath": "https://github.com/Shadawn/A1-ComponentLibrary/raw/master/extension.cfe",
         "dataChange": false
@@ -36,14 +36,14 @@
     },
     {
         "name": "А1Д",
-        "version": "2020-11-05",
+        "version": "2020-11-06",
         "description": "А1: Данные для работы различных алгоритмов.",
         "downloadPath": "https://github.com/Shadawn/A1-Data/raw/master/extension.cfe",
         "dataChange": true
     },
     {
         "name": "А1Файлы",
-        "version": "0.1.0",
+        "version": "0.2.0 - 2020-11-06",
         "description": "Позволяет присоединять и хранить различные файлы в системе 1С",
         "downloadPath": "https://github.com/Shadawn/A1-Files/raw/master/extension.cfe",
         "dataChange": true
