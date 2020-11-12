@@ -58,7 +58,7 @@
     {
         "name": "БОНД_Коннектор",
         "version": "2.1.3",
-        "description": "Requests для 1С (© Владимир Бондаренко)",
+        "description": "Requests для 1С (© Владимир Бондаревский)",
         "downloadPath": "https://github.com/Shadawn/BOND-Connector/raw/master/extension.cfe",
         "dataChange": false
     }
