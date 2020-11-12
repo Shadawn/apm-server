@@ -1,7 +1,7 @@
 [
     {
         "name": "А1Э",
-        "version": "1.7.2 - 2020-11-11",
+        "version": "1.7.2 - 2020-11-12",
         "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
         "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
         "dataChange": false
@@ -53,6 +53,13 @@
         "version": "2020-11-03",
         "description": "Дополнительные универсальные роли для 1С",
         "downloadPath": "https://github.com/Shadawn/A1-Roles/raw/master/extension.cfe",
-        "dataChange": true
+        "dataChange": false
+    },
+    {
+        "name": "БОНД_Коннектор",
+        "version": "2.1.3",
+        "description": "Requests для 1С (© Владимир Бондаренко)",
+        "downloadPath": "https://github.com/Shadawn/BOND-Connector/raw/master/extension.cfe",
+        "dataChange": false
     }
 ]
