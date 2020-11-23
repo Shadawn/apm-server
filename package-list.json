@@ -1,7 +1,7 @@
 [
     {
         "name": "А1Э",
-        "version": "1.7.2 - 2020-11-17",
+        "version": "1.7.3 - 2020-11-23",
         "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
         "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
         "dataChange": false
@@ -15,7 +15,7 @@
     },
     {
         "name": "А1БСП",
-        "version": "2020-11-16",
+        "version": "2020-11-23",
         "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
         "downloadPath": "https://github.com/Shadawn/A1-SSL/raw/master/extension.cfe",
         "dataChange": false
@@ -58,7 +58,7 @@
     {
         "name": "БОНД_Коннектор",
         "version": "2.1.3",
-        "description": "Requests для 1С (© Владимир Бондаревский)",
+        "description": "Коннектор: удобный HTTP-клиент для 1С:Предприятие 8 (© Владимир Бондаревский)",
         "downloadPath": "https://github.com/Shadawn/BOND-Connector/raw/master/extension.cfe",
         "dataChange": false
     }
