@@ -43,7 +43,7 @@
     },
     {
         "name": "А1Файлы",
-        "version": "0.2.0 - 2020-11-06",
+        "version": "0.3.0 - 2020-12-08",
         "description": "Позволяет присоединять и хранить различные файлы в системе 1С",
         "downloadPath": "https://github.com/Shadawn/A1-Files/raw/master/extension.cfe",
         "dataChange": true
