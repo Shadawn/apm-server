@@ -1,7 +1,7 @@
 [
     {
         "name": "А1Э",
-        "version": "1.7.3 - 2020-11-23",
+        "version": "1.7.4 - 2020-12-09",
         "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
         "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
         "dataChange": false
@@ -15,7 +15,7 @@
     },
     {
         "name": "А1БСП",
-        "version": "2020-11-23",
+        "version": "2020-12-09",
         "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
         "downloadPath": "https://github.com/Shadawn/A1-SSL/raw/master/extension.cfe",
         "dataChange": false
