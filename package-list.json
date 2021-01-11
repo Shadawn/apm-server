@@ -1,7 +1,7 @@
 [
     {
         "name": "А1Э",
-        "version": "1.8.3 - 2020-12-25",
+        "version": "1.8.4 - 2021-01-11",
         "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
         "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
         "dataChange": false
