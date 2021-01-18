@@ -29,7 +29,7 @@
     },
     {
         "name": "А1И",
-        "version": "2020-10-15",
+        "version": "2020-01-18",
         "description": "А1: Инструменты для разработчиков/администраторов.",
         "downloadPath": "https://github.com/Shadawn/A1-Instruments/raw/master/extension.cfe",
         "dataChange": false
@@ -43,7 +43,7 @@
     },
     {
         "name": "А1Файлы",
-        "version": "0.3.0 - 2020-12-08",
+        "version": "0.4.0 - 2020-01-18",
         "description": "Позволяет присоединять и хранить различные файлы в системе 1С",
         "downloadPath": "https://github.com/Shadawn/A1-Files/raw/master/extension.cfe",
         "dataChange": true
@@ -74,6 +74,13 @@
         "version": "0.2.0 - 2020-12-25",
         "description": "Расширение для работы с электронной почтой в рамках А1: Фреймворк",
         "downloadPath": "https://github.com/Shadawn/A1-Email/raw/master/extension.cfe",
+        "dataChange": false
+    },
+    {
+        "name": "А1Пользователи",
+        "version": "2020-01-18",
+        "description": "Расширение для работы с пользователями в рамках А1: Фреймворк",
+        "downloadPath": "https://github.com/Shadawn/A1-Users/raw/master/extension.cfe",
         "dataChange": false
     }
 ]
