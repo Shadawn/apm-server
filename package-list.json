@@ -1,7 +1,7 @@
 [
     {
         "name": "А1Э",
-        "version": "1.8.4 - 2021-01-11",
+        "version": "1.8.5 - 2021-01-19",
         "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
         "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
         "dataChange": false
@@ -85,7 +85,7 @@
     },
     {
         "name": "А1Автозадачи",
-        "version": "2020-12-11",
+        "version": "2021-01-19",
         "description": "Расширение, позволяющее при помощи запросов к базе данных ставить задачи пользователям",
         "downloadPath": "https://github.com/Shadawn/A1-Autotasks/raw/master/extension.cfe",
         "dataChange": true
