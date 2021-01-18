@@ -81,6 +81,13 @@
         "version": "2020-01-18",
         "description": "Расширение для работы с пользователями в рамках А1: Фреймворк",
         "downloadPath": "https://github.com/Shadawn/A1-Users/raw/master/extension.cfe",
-        "dataChange": false
+        "dataChange": true
+    },
+    {
+        "name": "А1Автозадачи",
+        "version": "2020-12-11",
+        "description": "Расширение, позволяющее при помощи запросов к базе данных ставить задачи пользователям",
+        "downloadPath": "https://github.com/Shadawn/A1-Users/raw/master/extension.cfe",
+        "dataChange": true
     }
 ]
