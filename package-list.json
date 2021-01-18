@@ -29,7 +29,7 @@
     },
     {
         "name": "А1И",
-        "version": "2020-01-18",
+        "version": "2021-01-18",
         "description": "А1: Инструменты для разработчиков/администраторов.",
         "downloadPath": "https://github.com/Shadawn/A1-Instruments/raw/master/extension.cfe",
         "dataChange": false
@@ -78,7 +78,7 @@
     },
     {
         "name": "А1Пользователи",
-        "version": "2020-01-18",
+        "version": "2021-01-18",
         "description": "Расширение для работы с пользователями в рамках А1: Фреймворк",
         "downloadPath": "https://github.com/Shadawn/A1-Users/raw/master/extension.cfe",
         "dataChange": true
