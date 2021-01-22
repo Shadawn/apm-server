@@ -1,7 +1,7 @@
 [
     {
         "name": "А1Э",
-        "version": "1.8.5 - 2021-01-19",
+        "version": "1.8.6 - 2021-01-21",
         "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
         "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
         "dataChange": false
@@ -15,7 +15,7 @@
     },
     {
         "name": "А1БСП",
-        "version": "2020-12-24",
+        "version": "2021-01-22",
         "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
         "downloadPath": "https://github.com/Shadawn/A1-SSL/raw/master/extension.cfe",
         "dataChange": false
@@ -29,7 +29,7 @@
     },
     {
         "name": "А1И",
-        "version": "2021-01-18",
+        "version": "2021-01-22",
         "description": "А1: Инструменты для разработчиков/администраторов.",
         "downloadPath": "https://github.com/Shadawn/A1-Instruments/raw/master/extension.cfe",
         "dataChange": false
@@ -43,7 +43,7 @@
     },
     {
         "name": "А1Файлы",
-        "version": "0.4.0 - 2020-01-18",
+        "version": "0.4.0 - 2021-01-18",
         "description": "Позволяет присоединять и хранить различные файлы в системе 1С",
         "downloadPath": "https://github.com/Shadawn/A1-Files/raw/master/extension.cfe",
         "dataChange": true
@@ -64,14 +64,14 @@
     },
     {
         "name": "А1Бух",
-        "version": "2020-12-24",
+        "version": "2021-01-21",
         "description": "Адаптация 1С: Бухгалтерия 3.0 в рамках А1: Фреймворк",
         "downloadPath": "https://github.com/Shadawn/A1-Buh/raw/master/extension.cfe",
         "dataChange": false
     },
     {
         "name": "А1Емэйл",
-        "version": "0.2.0 - 2020-12-25",
+        "version": "0.3.0 - 2021-01-21",
         "description": "Расширение для работы с электронной почтой в рамках А1: Фреймворк",
         "downloadPath": "https://github.com/Shadawn/A1-Email/raw/master/extension.cfe",
         "dataChange": false
@@ -85,7 +85,7 @@
     },
     {
         "name": "А1Автозадачи",
-        "version": "2021-01-19",
+        "version": "2021-01-21",
         "description": "Расширение, позволяющее при помощи запросов к базе данных ставить задачи пользователям",
         "downloadPath": "https://github.com/Shadawn/A1-Autotasks/raw/master/extension.cfe",
         "dataChange": true
