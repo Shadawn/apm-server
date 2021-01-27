@@ -15,7 +15,7 @@
     },
     {
         "name": "А1БСП",
-        "version": "2021-01-22",
+        "version": "2021-01-27",
         "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
         "downloadPath": "https://github.com/Shadawn/A1-SSL/raw/master/extension.cfe",
         "dataChange": false
@@ -85,7 +85,7 @@
     },
     {
         "name": "А1Автозадачи",
-        "version": "2021-01-21",
+        "version": "1.0.0 - 2021-01-27",
         "description": "Расширение, позволяющее при помощи запросов к базе данных ставить задачи пользователям",
         "downloadPath": "https://github.com/Shadawn/A1-Autotasks/raw/master/extension.cfe",
         "dataChange": true
