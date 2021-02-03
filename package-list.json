@@ -8,7 +8,7 @@
     },
     {
         "name": "А1БК",
-        "version": "2020-02-03",
+        "version": "2021-02-03",
         "description": "А1: Библиотека компонентов фрэймворка А1 для 1С: Предприятие.",
         "downloadPath": "https://github.com/Shadawn/A1-ComponentLibrary/raw/master/extension.cfe",
         "dataChange": false
