@@ -1,7 +1,7 @@
 [
     {
         "name": "А1Э",
-        "version": "1.8.9 - 2021-02-03",
+        "version": "1.8.9 - 2021-02-09",
         "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
         "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
         "dataChange": false
@@ -64,7 +64,7 @@
     },
     {
         "name": "А1Бух",
-        "version": "2021-01-21",
+        "version": "2021-02-08",
         "description": "Адаптация 1С: Бухгалтерия 3.0 в рамках А1: Фреймворк",
         "downloadPath": "https://github.com/Shadawn/A1-Buh/raw/master/extension.cfe",
         "dataChange": false
