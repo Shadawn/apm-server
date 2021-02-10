@@ -15,7 +15,7 @@
     },
     {
         "name": "А1БСП",
-        "version": "2021-01-27",
+        "version": "2021-02-09",
         "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
         "downloadPath": "https://github.com/Shadawn/A1-SSL/raw/master/extension.cfe",
         "dataChange": false
