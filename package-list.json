@@ -64,7 +64,7 @@
     },
     {
         "name": "А1Бух",
-        "version": "2021-02-08",
+        "version": "2021-03-03",
         "description": "Адаптация 1С: Бухгалтерия 3.0 в рамках А1: Фреймворк",
         "downloadPath": "https://github.com/Shadawn/A1-Buh/raw/master/extension.cfe",
         "dataChange": false
