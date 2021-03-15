@@ -1,7 +1,7 @@
 [
     {
         "name": "А1Э",
-        "version": "1.9.1 - 2021-03-04",
+        "version": "1.9.2 - 2021-03-15",
         "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
         "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
         "dataChange": false
@@ -29,7 +29,7 @@
     },
     {
         "name": "А1И",
-        "version": "2021-02-03",
+        "version": "2021-03-15",
         "description": "А1: Инструменты для разработчиков/администраторов.",
         "downloadPath": "https://github.com/Shadawn/A1-Instruments/raw/master/extension.cfe",
         "dataChange": false
@@ -88,6 +88,13 @@
         "version": "1.1.1 - 2021-03-04",
         "description": "Расширение, позволяющее при помощи запросов к базе данных ставить задачи пользователям",
         "downloadPath": "https://github.com/Shadawn/A1-Autotasks/raw/master/extension.cfe",
+        "dataChange": true
+    },
+    {
+        "name": "А1Интерфейс",
+        "version": "2021-03-15",
+        "description": "Альтернативный базовый интерфейс для программ 1С",
+        "downloadPath": "https://github.com/Shadawn/A1-Interface/raw/master/extension.cfe",
         "dataChange": true
     }
 ]
