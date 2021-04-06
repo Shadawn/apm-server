@@ -102,7 +102,7 @@
     "versionScheme": "SemVer",
     "description": "Расширение для работы с электронной почтой в рамках А1: Фреймворк",
     "downloadPath": "https://github.com/Shadawn/A1-Email/raw/master/extension.cfe",
-    "dataChange": false,
+    "dataChange": true,
     "dependencies": {
       "А1Э": "latest"
     }
@@ -133,7 +133,7 @@
     "version": "2021-03-15",
     "description": "Альтернативный базовый интерфейс для программ 1С",
     "downloadPath": "https://github.com/Shadawn/A1-Interface/raw/master/extension.cfe",
-    "dataChange": true,
+    "dataChange": false,
     "dependencies": {
       "А1Э": "latest",
       "А1БК": "latest"
