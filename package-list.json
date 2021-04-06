@@ -1,101 +1,139 @@
 [
-    {
-        "name": "А1Э",
-        "version": "1.9.2+2021-03-15",
-        "versionScheme": "SemVer",
-        "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
-        "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
-        "dataChange": false
-    },
-    {
-        "name": "А1БК",
-        "version": "2021-03-04",
-        "description": "А1: Библиотека компонентов фрэймворка А1 для 1С: Предприятие.",
-        "downloadPath": "https://github.com/Shadawn/A1-ComponentLibrary/raw/master/extension.cfe",
-        "dataChange": false
-    },
-    {
-        "name": "А1БСП",
-        "version": "2021-03-04",
-        "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
-        "downloadPath": "https://github.com/Shadawn/A1-SSL/raw/master/extension.cfe",
-        "dataChange": false
-    },
-    {
-        "name": "А1БСПД",
-        "version": "2020-04-28",
-        "description": "А1: дополнительные данные для надстроек над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
-        "downloadPath": "https://github.com/Shadawn/A1-SSL-Data/raw/master/extension.cfe",
-        "dataChange": true
-    },
-    {
-        "name": "А1И",
-        "version": "2021-03-15",
-        "description": "А1: Инструменты для разработчиков/администраторов.",
-        "downloadPath": "https://github.com/Shadawn/A1-Instruments/raw/master/extension.cfe",
-        "dataChange": false
-    },
-    {
-        "name": "А1Д",
-        "version": "2021-03-04",
-        "description": "А1: Данные для работы различных алгоритмов.",
-        "downloadPath": "https://github.com/Shadawn/A1-Data/raw/master/extension.cfe",
-        "dataChange": true
-    },
-    {
-        "name": "А1Файлы",
-        "version": "0.4.0 - 2021-01-18",
-        "description": "Позволяет присоединять и хранить различные файлы в системе 1С",
-        "downloadPath": "https://github.com/Shadawn/A1-Files/raw/master/extension.cfe",
-        "dataChange": true
-    },
-    {
-        "name": "А1Р",
-        "version": "2020-11-03",
-        "description": "Дополнительные универсальные роли для 1С",
-        "downloadPath": "https://github.com/Shadawn/A1-Roles/raw/master/extension.cfe",
-        "dataChange": false
-    },
-    {
-        "name": "БОНД_Коннектор",
-        "version": "2.1.3",
-        "description": "Коннектор: удобный HTTP-клиент для 1С:Предприятие 8 (© Владимир Бондаревский)",
-        "downloadPath": "https://github.com/Shadawn/BOND-Connector/raw/master/extension.cfe",
-        "dataChange": false
-    },
-    {
-        "name": "А1Бух",
-        "version": "2021-03-03",
-        "description": "Адаптация 1С: Бухгалтерия 3.0 в рамках А1: Фреймворк",
-        "downloadPath": "https://github.com/Shadawn/A1-Buh/raw/master/extension.cfe",
-        "dataChange": false
-    },
-    {
-        "name": "А1Емэйл",
-        "version": "0.5.0 - 2021-01-28",
-        "description": "Расширение для работы с электронной почтой в рамках А1: Фреймворк",
-        "downloadPath": "https://github.com/Shadawn/A1-Email/raw/master/extension.cfe",
-        "dataChange": false
-    },
-    {
-        "name": "А1Пользователи",
-        "version": "2021-01-18",
-        "description": "Расширение для работы с пользователями в рамках А1: Фреймворк",
-        "downloadPath": "https://github.com/Shadawn/A1-Users/raw/master/extension.cfe",
-        "dataChange": true
-    },
-    {
-        "name": "А1Автозадачи",
-        "version": "1.1.1 - 2021-03-04",
-        "description": "Расширение, позволяющее при помощи запросов к базе данных ставить задачи пользователям",
-        "downloadPath": "https://github.com/Shadawn/A1-Autotasks/raw/master/extension.cfe",
-        "dataChange": true
-    },
-    {
-        "name": "А1Интерфейс",
-        "version": "2021-03-15",
-        "description": "Альтернативный базовый интерфейс для программ 1С",
-        "downloadPath": "https://github.com/Shadawn/A1-Interface/raw/master/extension.cfe",
-        "dataChange": true
+  {
+    "name": "А1Э",
+    "version": "1.9.2+2021-03-15",
+    "versionScheme": "SemVer",
+    "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
+    "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
+    "dataChange": false
+  },
+  {
+    "name": "А1БК",
+    "version": "2021-03-04",
+    "description": "А1: Библиотека компонентов фрэймворка А1 для 1С: Предприятие.",
+    "downloadPath": "https://github.com/Shadawn/A1-ComponentLibrary/raw/master/extension.cfe",
+    "dataChange": false,
+    "dependencies": {
+      "А1Э": "latest"
     }
+  },
+  {
+    "name": "А1БСП",
+    "version": "2021-03-04",
+    "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
+    "downloadPath": "https://github.com/Shadawn/A1-SSL/raw/master/extension.cfe",
+    "dataChange": false,
+    "dependencies": {
+      "А1Э": "latest"
+    }
+  },
+  {
+    "name": "А1БСПД",
+    "version": "2020-04-28",
+    "description": "А1: дополнительные данные для надстроек над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
+    "downloadPath": "https://github.com/Shadawn/A1-SSL-Data/raw/master/extension.cfe",
+    "dataChange": true,
+    "dependencies": {
+      "А1Э": "latest"
+    }
+  },
+  {
+    "name": "А1И",
+    "version": "2021-03-15",
+    "description": "А1: Инструменты для разработчиков/администраторов.",
+    "downloadPath": "https://github.com/Shadawn/A1-Instruments/raw/master/extension.cfe",
+    "dataChange": false,
+    "dependencies": {
+      "А1Э": "latest"
+    }
+  },
+  {
+    "name": "А1Д",
+    "version": "2021-03-04",
+    "description": "А1: Данные для работы различных алгоритмов.",
+    "downloadPath": "https://github.com/Shadawn/A1-Data/raw/master/extension.cfe",
+    "dataChange": true,
+    "dependencies": {
+      "А1Э": "latest"
+    }
+  },
+  {
+    "name": "А1Файлы",
+    "version": "0.4.0 - 2021-01-18",
+    "description": "Позволяет присоединять и хранить различные файлы в системе 1С",
+    "downloadPath": "https://github.com/Shadawn/A1-Files/raw/master/extension.cfe",
+    "dataChange": true,
+    "dependencies": {
+      "А1Э": "latest",
+      "А1БК": "latest"
+    }
+  },
+  {
+    "name": "А1Р",
+    "version": "2020-11-03",
+    "description": "Дополнительные универсальные роли для 1С",
+    "downloadPath": "https://github.com/Shadawn/A1-Roles/raw/master/extension.cfe",
+    "dataChange": false,
+    "dependencies": {
+      "А1Э": "latest"
+    }
+  },
+  {
+    "name": "БОНД_Коннектор",
+    "version": "2.1.3",
+    "description": "Коннектор: удобный HTTP-клиент для 1С:Предприятие 8 (© Владимир Бондаревский)",
+    "downloadPath": "https://github.com/Shadawn/BOND-Connector/raw/master/extension.cfe",
+    "dataChange": false
+  },
+  {
+    "name": "А1Бух",
+    "version": "2021-03-03",
+    "description": "Адаптация 1С: Бухгалтерия 3.0 в рамках А1: Фреймворк",
+    "downloadPath": "https://github.com/Shadawn/A1-Buh/raw/master/extension.cfe",
+    "dataChange": false,
+    "dependencies": {
+      "А1Э": "latest"
+    }
+  },
+  {
+    "name": "А1Емэйл",
+    "version": "0.5.0 - 2021-01-28",
+    "description": "Расширение для работы с электронной почтой в рамках А1: Фреймворк",
+    "downloadPath": "https://github.com/Shadawn/A1-Email/raw/master/extension.cfe",
+    "dataChange": false,
+    "dependencies": {
+      "А1Э": "latest"
+    }
+  },
+  {
+    "name": "А1Пользователи",
+    "version": "2021-01-18",
+    "description": "Расширение для работы с пользователями в рамках А1: Фреймворк",
+    "downloadPath": "https://github.com/Shadawn/A1-Users/raw/master/extension.cfe",
+    "dataChange": true,
+    "dependencies": {
+      "А1Э": "latest"
+    }
+  },
+  {
+    "name": "А1Автозадачи",
+    "version": "1.1.1 - 2021-03-04",
+    "description": "Расширение, позволяющее при помощи запросов к базе данных ставить задачи пользователям",
+    "downloadPath": "https://github.com/Shadawn/A1-Autotasks/raw/master/extension.cfe",
+    "dataChange": true,
+    "dependencies": {
+      "А1Э": "latest"
+    }
+  },
+  {
+    "name": "А1Интерфейс",
+    "version": "2021-03-15",
+    "description": "Альтернативный базовый интерфейс для программ 1С",
+    "downloadPath": "https://github.com/Shadawn/A1-Interface/raw/master/extension.cfe",
+    "dataChange": true,
+    "dependencies": {
+      "А1Э": "latest",
+      "А1БК": "latest"
+    }
+  }
 ]
