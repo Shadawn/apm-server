@@ -1,7 +1,7 @@
 [
   {
     "name": "А1Э",
-    "version": "1.10.0+2021-04-06",
+    "version": "1.11.0+2021-04-28",
     "versionScheme": "SemVer",
     "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
     "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
@@ -9,7 +9,7 @@
   },
   {
     "name": "А1БК",
-    "version": "2021-03-26",
+    "version": "2021-04-28",
     "description": "А1: Библиотека компонентов фрэймворка А1 для 1С: Предприятие.",
     "downloadPath": "https://github.com/Shadawn/A1-ComponentLibrary/raw/master/extension.cfe",
     "dataChange": false,
@@ -19,7 +19,7 @@
   },
   {
     "name": "А1БСП",
-    "version": "2021-03-26",
+    "version": "2021-04-09",
     "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
     "downloadPath": "https://github.com/Shadawn/A1-SSL/raw/master/extension.cfe",
     "dataChange": false,
@@ -39,7 +39,7 @@
   },
   {
     "name": "А1И",
-    "version": "2021-04-06",
+    "version": "2021-04-28",
     "description": "А1: Инструменты для разработчиков/администраторов.",
     "downloadPath": "https://github.com/Shadawn/A1-Instruments/raw/master/extension.cfe",
     "dataChange": false,
@@ -59,7 +59,7 @@
   },
   {
     "name": "А1Файлы",
-    "version": "0.4.1+2021-03-30",
+    "version": "0.4.2+2021-04-09",
     "versionScheme": "SemVer",
     "description": "Позволяет присоединять и хранить различные файлы в системе 1С",
     "downloadPath": "https://github.com/Shadawn/A1-Files/raw/master/extension.cfe",
@@ -119,7 +119,7 @@
   },
   {
     "name": "А1Автозадачи",
-    "version": "1.2.0+2021-04-06",
+    "version": "1.2.1+2021-04-13",
     "versionScheme": "SemVer",
     "description": "Расширение, позволяющее при помощи запросов к базе данных ставить задачи пользователям",
     "downloadPath": "https://github.com/Shadawn/A1-Autotasks/raw/master/extension.cfe",
