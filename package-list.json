@@ -1,7 +1,7 @@
 [
   {
     "name": "А1Э",
-    "version": "2.0.0+2021-05-26",
+    "version": "2.0.1+2021-06-03",
     "versionScheme": "SemVer",
     "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
     "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
@@ -19,7 +19,7 @@
   },
   {
     "name": "А1БСП",
-    "version": "2021-04-09",
+    "version": "2021-06-02",
     "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
     "downloadPath": "https://github.com/Shadawn/A1-SSL/raw/master/extension.cfe",
     "dataChange": false,
@@ -137,6 +137,16 @@
     "dependencies": {
       "А1Э": "latest",
       "А1БК": "latest"
+    }
+  },
+  {
+    "name": "А1Веб",
+    "version": "2021-05-17",
+    "description": "Расширение для работы программ программ 1С с web-технологиями",
+    "downloadPath": "https://github.com/Shadawn/A1-Web/raw/master/extension.cfe",
+    "dataChange": false,
+    "dependencies": {
+      "А1Э": "latest"
     }
   }
 ]
