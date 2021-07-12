@@ -125,7 +125,8 @@
     "downloadPath": "https://github.com/Shadawn/A1-Autotasks/raw/master/extension.cfe",
     "dataChange": true,
     "dependencies": {
-      "А1Э": "latest"
+      "А1Э": "latest",
+      "А1Д": "latest"
     }
   },
   {
