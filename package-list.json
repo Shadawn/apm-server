@@ -1,7 +1,7 @@
 [
   {
     "name": "А1Э",
-    "version": "2.0.1+2021-06-03",
+    "version": "2.7.0+2021-07-15",
     "versionScheme": "SemVer",
     "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
     "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
@@ -9,7 +9,7 @@
   },
   {
     "name": "А1БК",
-    "version": "2021-04-28",
+    "version": "2021-06-29",
     "description": "А1: Библиотека компонентов фрэймворка А1 для 1С: Предприятие.",
     "downloadPath": "https://github.com/Shadawn/A1-ComponentLibrary/raw/master/extension.cfe",
     "dataChange": false,
@@ -19,7 +19,7 @@
   },
   {
     "name": "А1БСП",
-    "version": "2021-06-02",
+    "version": "2021-06-24",
     "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
     "downloadPath": "https://github.com/Shadawn/A1-SSL/raw/master/extension.cfe",
     "dataChange": false,
@@ -39,7 +39,7 @@
   },
   {
     "name": "А1И",
-    "version": "2021-04-28",
+    "version": "2021-07-12",
     "description": "А1: Инструменты для разработчиков/администраторов.",
     "downloadPath": "https://github.com/Shadawn/A1-Instruments/raw/master/extension.cfe",
     "dataChange": false,
@@ -49,7 +49,7 @@
   },
   {
     "name": "А1Д",
-    "version": "2021-05-17",
+    "version": "2021-06-22",
     "description": "А1: Данные для работы различных алгоритмов.",
     "downloadPath": "https://github.com/Shadawn/A1-Data/raw/master/extension.cfe",
     "dataChange": true,
@@ -59,7 +59,7 @@
   },
   {
     "name": "А1Файлы",
-    "version": "0.4.2+2021-04-09",
+    "version": "0.5.0+2021-05-24",
     "versionScheme": "SemVer",
     "description": "Позволяет присоединять и хранить различные файлы в системе 1С",
     "downloadPath": "https://github.com/Shadawn/A1-Files/raw/master/extension.cfe",
