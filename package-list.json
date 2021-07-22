@@ -1,7 +1,7 @@
 [
   {
     "name": "А1Э",
-    "version": "2.7.0+2021-07-15",
+    "version": "2.8.0+2021-07-22",
     "versionScheme": "SemVer",
     "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
     "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
@@ -39,7 +39,7 @@
   },
   {
     "name": "А1И",
-    "version": "2021-07-12",
+    "version": "2021-07-22",
     "description": "А1: Инструменты для разработчиков/администраторов.",
     "downloadPath": "https://github.com/Shadawn/A1-Instruments/raw/master/extension.cfe",
     "dataChange": false,
