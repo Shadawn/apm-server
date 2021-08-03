@@ -9,7 +9,7 @@
   },
   {
     "name": "А1БК",
-    "version": "2021-07-28",
+    "version": "2021-08-03",
     "description": "А1: Библиотека компонентов фрэймворка А1 для 1С: Предприятие.",
     "downloadPath": "https://github.com/Shadawn/A1-ComponentLibrary/raw/master/extension.cfe",
     "dataChange": false,
@@ -19,7 +19,7 @@
   },
   {
     "name": "А1БСП",
-    "version": "2021-07-28",
+    "version": "2021-07-30",
     "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
     "downloadPath": "https://github.com/Shadawn/A1-SSL/raw/master/extension.cfe",
     "dataChange": false,
@@ -39,7 +39,7 @@
   },
   {
     "name": "А1И",
-    "version": "2021-07-22",
+    "version": "2021-07-30",
     "description": "А1: Инструменты для разработчиков/администраторов.",
     "downloadPath": "https://github.com/Shadawn/A1-Instruments/raw/master/extension.cfe",
     "dataChange": false,
@@ -119,7 +119,7 @@
   },
   {
     "name": "А1Автозадачи",
-    "version": "1.5.0+2021-07-29",
+    "version": "1.6.0+2021-08-03",
     "versionScheme": "SemVer",
     "description": "Расширение, позволяющее при помощи запросов к базе данных ставить задачи пользователям",
     "downloadPath": "https://github.com/Shadawn/A1-Autotasks/raw/master/extension.cfe",
