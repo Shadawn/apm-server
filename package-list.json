@@ -1,7 +1,7 @@
 [
   {
     "name": "А1Э",
-    "version": "2.10.0+2021-08-04",
+    "version": "2.13.0+2021-08-18",
     "versionScheme": "SemVer",
     "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
     "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
@@ -9,7 +9,7 @@
   },
   {
     "name": "А1БК",
-    "version": "2021-08-03",
+    "version": "2021-08-16",
     "description": "А1: Библиотека компонентов фрэймворка А1 для 1С: Предприятие.",
     "downloadPath": "https://github.com/Shadawn/A1-ComponentLibrary/raw/master/extension.cfe",
     "dataChange": false,
@@ -19,7 +19,7 @@
   },
   {
     "name": "А1БСП",
-    "version": "2021-08-04",
+    "version": "2021-08-18",
     "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
     "downloadPath": "https://github.com/Shadawn/A1-SSL/raw/master/extension.cfe",
     "dataChange": false,
@@ -39,7 +39,7 @@
   },
   {
     "name": "А1И",
-    "version": "2021-08-04",
+    "version": "2021-08-18",
     "description": "А1: Инструменты для разработчиков/администраторов.",
     "downloadPath": "https://github.com/Shadawn/A1-Instruments/raw/master/extension.cfe",
     "dataChange": false,
@@ -88,7 +88,7 @@
   },
   {
     "name": "А1Бух",
-    "version": "2021-03-03",
+    "version": "2021-08-10",
     "description": "Адаптация 1С: Бухгалтерия 3.0 в рамках А1: Фреймворк",
     "downloadPath": "https://github.com/Shadawn/A1-Buh/raw/master/extension.cfe",
     "dataChange": false,
