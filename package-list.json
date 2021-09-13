@@ -49,7 +49,7 @@
   },
   {
     "name": "А1Д",
-    "version": "2021-06-22",
+    "version": "2021-09-13",
     "description": "А1: Данные для работы различных алгоритмов.",
     "downloadPath": "https://github.com/Shadawn/A1-Data/raw/master/extension.cfe",
     "dataChange": true,
