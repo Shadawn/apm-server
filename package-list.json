@@ -4,14 +4,14 @@
     "version": "2.15.0+2021-09-02",
     "versionScheme": "SemVer",
     "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
-    "downloadPath": "https://github.com/Shadawn/A1-Export/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-Export/releases/latest/download/extension.cfe",
     "dataChange": false
   },
   {
     "name": "А1БК",
     "version": "2021-08-31",
     "description": "А1: Библиотека компонентов фрэймворка А1 для 1С: Предприятие.",
-    "downloadPath": "https://github.com/Shadawn/A1-ComponentLibrary/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-ComponentLibrary/releases/latest/download/extension.cfe",
     "dataChange": false,
     "dependencies": {
       "А1Э": "latest"
@@ -21,7 +21,7 @@
     "name": "А1БСП",
     "version": "2021-08-30",
     "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
-    "downloadPath": "https://github.com/Shadawn/A1-SSL/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-SSL/releases/latest/download/extension.cfe",
     "dataChange": false,
     "dependencies": {
       "А1Э": "latest"
@@ -31,7 +31,7 @@
     "name": "А1БСПД",
     "version": "2020-04-28",
     "description": "А1: дополнительные данные для надстроек над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
-    "downloadPath": "https://github.com/Shadawn/A1-SSL-Data/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-SSL-Data/releases/latest/download/extension.cfe",
     "dataChange": true,
     "dependencies": {
       "А1Э": "latest"
@@ -41,7 +41,7 @@
     "name": "А1И",
     "version": "2021-08-30",
     "description": "А1: Инструменты для разработчиков/администраторов.",
-    "downloadPath": "https://github.com/Shadawn/A1-Instruments/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-Instruments/releases/latest/download/extension.cfe",
     "dataChange": false,
     "dependencies": {
       "А1Э": "latest"
@@ -51,7 +51,7 @@
     "name": "А1Д",
     "version": "2021-09-13",
     "description": "А1: Данные для работы различных алгоритмов.",
-    "downloadPath": "https://github.com/Shadawn/A1-Data/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-Data/releases/latest/download/extension.cfe",
     "dataChange": true,
     "dependencies": {
       "А1Э": "latest"
@@ -62,7 +62,7 @@
     "version": "0.5.0+2021-05-24",
     "versionScheme": "SemVer",
     "description": "Позволяет присоединять и хранить различные файлы в системе 1С",
-    "downloadPath": "https://github.com/Shadawn/A1-Files/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-Files/releases/latest/download/extension.cfe",
     "dataChange": true,
     "dependencies": {
       "А1Э": "latest",
@@ -73,7 +73,7 @@
     "name": "А1Р",
     "version": "2020-11-03",
     "description": "Дополнительные универсальные роли для 1С",
-    "downloadPath": "https://github.com/Shadawn/A1-Roles/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-Roles/releases/latest/download/extension.cfe",
     "dataChange": false,
     "dependencies": {
       "А1Э": "latest"
@@ -90,7 +90,7 @@
     "name": "А1Бух",
     "version": "2021-08-10",
     "description": "Адаптация 1С: Бухгалтерия 3.0 в рамках А1: Фреймворк",
-    "downloadPath": "https://github.com/Shadawn/A1-Buh/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-Buh/releases/latest/download/extension.cfe",
     "dataChange": false,
     "dependencies": {
       "А1Э": "latest"
@@ -101,7 +101,7 @@
     "version": "0.6.0+2021-04-06",
     "versionScheme": "SemVer",
     "description": "Расширение для работы с электронной почтой в рамках А1: Фреймворк",
-    "downloadPath": "https://github.com/Shadawn/A1-Email/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-Email/releases/latest/download/extension.cfe",
     "dataChange": true,
     "dependencies": {
       "А1Э": "latest"
@@ -111,7 +111,7 @@
     "name": "А1Пользователи",
     "version": "2021-01-18",
     "description": "Расширение для работы с пользователями в рамках А1: Фреймворк",
-    "downloadPath": "https://github.com/Shadawn/A1-Users/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-Users/releases/latest/download/extension.cfe",
     "dataChange": true,
     "dependencies": {
       "А1Э": "latest"
@@ -122,7 +122,7 @@
     "version": "1.6.0+2021-08-03",
     "versionScheme": "SemVer",
     "description": "Расширение, позволяющее при помощи запросов к базе данных ставить задачи пользователям",
-    "downloadPath": "https://github.com/Shadawn/A1-Autotasks/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-Autotasks/releases/latest/download/extension.cfe",
     "dataChange": true,
     "dependencies": {
       "А1Э": "latest",
@@ -133,7 +133,7 @@
     "name": "А1Интерфейс",
     "version": "2021-03-15",
     "description": "Альтернативный базовый интерфейс для программ 1С",
-    "downloadPath": "https://github.com/Shadawn/A1-Interface/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-Interface/releases/latest/download/extension.cfe",
     "dataChange": false,
     "dependencies": {
       "А1Э": "latest",
@@ -144,7 +144,7 @@
     "name": "А1Веб",
     "version": "2021-05-17",
     "description": "Расширение для работы программ программ 1С с web-технологиями",
-    "downloadPath": "https://github.com/Shadawn/A1-Web/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-Web/releases/latest/download/extension.cfe",
     "dataChange": false,
     "dependencies": {
       "А1Э": "latest"
@@ -155,7 +155,7 @@
     "version": "1.0.0+2021-08-30",
     "versionScheme": "SemVer",
     "description": "Библиотека для вывода блок-схем в 1С (на базе Mermaid.js и ПолеHTMLДокумента)",
-    "downloadPath": "https://github.com/Shadawn/A1-Mermaid/raw/master/extension.cfe",
+    "downloadPath": "https://github.com/Shadawn/A1-Mermaid/releases/latest/download/extension.cfe",
     "dataChange": false,
     "dependencies": {
       "А1Э": "latest"
