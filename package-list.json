@@ -14,7 +14,8 @@
     "downloadPath": "https://github.com/Shadawn/A1-ComponentLibrary/releases/latest/download/extension.cfe",
     "dataChange": false,
     "dependencies": {
-      "А1Э": "latest"
+      "А1Э": "latest",
+      "А1БК": "latest"
     }
   },
   {
