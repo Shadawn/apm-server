@@ -19,7 +19,7 @@
   },
   {
     "name": "А1БСП",
-    "version": "2021-11-11",
+    "version": "2021-11-29",
     "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
     "downloadPath": "https://github.com/Shadawn/A1-SSL/releases/latest/download/extension.cfe",
     "dataChange": false,
@@ -89,7 +89,7 @@
   },
   {
     "name": "А1Бух",
-    "version": "2021-10-04",
+    "version": "2021-11-24",
     "description": "Адаптация 1С: Бухгалтерия 3.0 в рамках А1: Фреймворк",
     "downloadPath": "https://github.com/Shadawn/A1-Buh/releases/latest/download/extension.cfe",
     "dataChange": false,
