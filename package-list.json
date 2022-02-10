@@ -5,7 +5,8 @@
     "versionScheme": "SemVer",
     "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
     "downloadPath": "https://github.com/Shadawn/A1-Export/releases/latest/download/extension.cfe",
-    "dataChange": false
+    "dataChange": false,
+    "useDefaultRolesForAllUsers": true
   },
   {
     "name": "А1БК",
@@ -158,6 +159,17 @@
     "description": "Библиотека для вывода блок-схем в 1С (на базе Mermaid.js и ПолеHTMLДокумента)",
     "downloadPath": "https://github.com/Shadawn/A1-Mermaid/releases/latest/download/extension.cfe",
     "dataChange": false,
+    "dependencies": {
+      "А1Э": "latest"
+    }
+  },
+  {
+    "name": "А1Обновление",
+    "version": "0.0.1+2022-02-01",
+    "versionScheme": "SemVer",
+    "description": "Библиотека для контроля за обновлением расширений информационной базы",
+    "downloadPath": "https://github.com/Shadawn/A1-Update/releases/latest/download/extension.cfe",
+    "dataChange": true,
     "dependencies": {
       "А1Э": "latest"
     }
