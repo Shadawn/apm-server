@@ -1,7 +1,7 @@
 [
   {
     "name": "А1Э",
-    "version": "3.0.1+2022-02-01",
+    "version": "3.1.1+2022-02-16",
     "versionScheme": "SemVer",
     "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
     "downloadPath": "https://github.com/Shadawn/A1-Export/releases/latest/download/extension.cfe",
@@ -10,7 +10,7 @@
   },
   {
     "name": "А1БК",
-    "version": "2022-02-09",
+    "version": "2022-02-16",
     "description": "А1: Библиотека компонентов фрэймворка А1 для 1С: Предприятие.",
     "downloadPath": "https://github.com/Shadawn/A1-ComponentLibrary/releases/latest/download/extension.cfe",
     "dataChange": false,
@@ -20,7 +20,7 @@
   },
   {
     "name": "А1БСП",
-    "version": "2022-02-10",
+    "version": "2022-02-15",
     "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
     "downloadPath": "https://github.com/Shadawn/A1-SSL/releases/latest/download/extension.cfe",
     "dataChange": false,
@@ -133,7 +133,7 @@
   },
   {
     "name": "А1Интерфейс",
-    "version": "2021-03-15",
+    "version": "2022-02-11",
     "description": "Альтернативный базовый интерфейс для программ 1С",
     "downloadPath": "https://github.com/Shadawn/A1-Interface/releases/latest/download/extension.cfe",
     "dataChange": false,
@@ -165,7 +165,7 @@
   },
   {
     "name": "А1Обновление",
-    "version": "0.0.1+2022-02-01",
+    "version": "0.0.2+2022-02-15",
     "versionScheme": "SemVer",
     "description": "Библиотека для контроля за обновлением расширений информационной базы",
     "downloadPath": "https://github.com/Shadawn/A1-Update/releases/latest/download/extension.cfe",
