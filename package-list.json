@@ -40,7 +40,7 @@
   },
   {
     "name": "А1И",
-    "version": "2022-02-07",
+    "version": "2022-03-03",
     "description": "А1: Инструменты для разработчиков/администраторов.",
     "downloadPath": "https://github.com/Shadawn/A1-Instruments/releases/latest/download/extension.cfe",
     "dataChange": false,
