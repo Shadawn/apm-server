@@ -1,7 +1,7 @@
 [
   {
     "name": "А1Э",
-    "version": "3.1.1+2022-02-16",
+    "version": "3.2.0+2022-03-21",
     "versionScheme": "SemVer",
     "description": "А1: Экспорт - библиотека экспортных функций для 1С: Предприятие.",
     "downloadPath": "https://github.com/Shadawn/A1-Export/releases/latest/download/extension.cfe",
@@ -20,7 +20,7 @@
   },
   {
     "name": "А1БСП",
-    "version": "2022-02-15",
+    "version": "2022-03-17",
     "description": "А1: БСП - надстройки над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
     "downloadPath": "https://github.com/Shadawn/A1-SSL/releases/latest/download/extension.cfe",
     "dataChange": false,
@@ -30,9 +30,19 @@
   },
   {
     "name": "А1БСПД",
-    "version": "2020-04-28",
+    "version": "2022-03-17",
     "description": "А1: дополнительные данные для надстроек над Библиотекой Стандартных Подсистем в рамках фрэймворка А1.",
     "downloadPath": "https://github.com/Shadawn/A1-SSL-Data/releases/latest/download/extension.cfe",
+    "dataChange": true,
+    "dependencies": {
+      "А1Э": "latest"
+    }
+  },
+  {
+    "name": "А1БСПИсторияИзменений",
+    "version": "2022-03-21",
+    "description": "А1: расширение для подключения механизма хранения истории изменений БСП к объектам из расширений.",
+    "downloadPath": "https://github.com/Shadawn/A1-SSL-VersionHistory/releases/latest/download/extension.cfe",
     "dataChange": true,
     "dependencies": {
       "А1Э": "latest"
