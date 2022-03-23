@@ -40,7 +40,7 @@
   },
   {
     "name": "А1БСПИсторияИзменений",
-    "version": "2022-03-21",
+    "version": "2022-03-23",
     "description": "А1: расширение для подключения механизма хранения истории изменений БСП к объектам из расширений.",
     "downloadPath": "https://github.com/Shadawn/A1-SSL-VersionHistory/releases/latest/download/extension.cfe",
     "dataChange": true,
